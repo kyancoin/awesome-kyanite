@@ -1,6 +1,6 @@
 # List of awesome side projects and repositories that are part of or related with Kyanite Project
 
-## Kyanite
+## Kyanite Wallet & Management
 - Kyanite Core: [Kyanite Reference Core Wallet](https://github.com/sapphire-pt/KYAN)
 - Kyanite Sentinel: [Kyanite Masternode Watchdog](https://github.com/bedri/kyan-sentinel)
 - Kyanman: [Kyanite Wallet Management Helper Software](https://github.com/bedri/kyanman) based on [moocowmoo's dashman](https://github.com/moocowmoo/dashman)
