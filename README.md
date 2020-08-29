@@ -8,3 +8,4 @@
 ### Mining (X11K)
 - [Cpu Multi Algorithm Miner](https://github.com/bedri/cpuminer-multi): A Cpu Multi Algorithm Miner for [X11K](https://github.com/bedri/X11K-Algorithm) algorithm based on [Tpruvot Cpuminer Multi](https://github.com/tpruvot/cpuminer-multi)
 - [GPU Miner for Nvidia Graphis Cards](https://github.com/bedri/tpruvot-ccminer): A GPU miner for Nvidia grphics cards for X11K based on [Tpruvot's Ccminer](https://github.com/tpruvot/ccminer)
+- [Gpu Miner for AMD Graphics Cards](https://github.com/bedri/sgminer-gm): A GPU miner for AMD Graphics crads for X11K based on [Genesis Mining's Sgminer](https://github.com/nicehash/sgminer)
