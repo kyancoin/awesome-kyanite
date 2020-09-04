@@ -12,3 +12,6 @@
 - [Gpu Miner for AMD Graphics Cards](https://github.com/bedri/sgminer-gm): A GPU miner for AMD Graphics crads for [X11K](https://github.com/bedri/X11K-Algorithm) based on [Genesis Mining's Sgminer](https://github.com/nicehash/sgminer)
 - [Mining Pool & Stratum With X11K Support](https://github.com/bedri/yiimp): Mining pool script and stratum codes for [X11K](https://github.com/bedri/X11K-Algorithm) based on [Tpruvot's Yiimp](https://github.com/bedri/yiimp)
 - [Mining Pool & Stratum Script With X11K Support Installation Script](https://github.com/bedri/yiimp_install_scrypt): An installation script to install modified Yiimp mining pool script for [X11K](https://github.com/bedri/X11K-Algorithm). Original script is [Xavatar's Script](https://github.com/xavatar/yiimp_install_scrypt)
+
+### Kyanite Masternode Setup Documentation
+- [Masternode Setup Guide by DASH](https://docs.dash.org/en/stable/masternodes/setup.html): Kyanite use DASH DIP3 codebase so this is the documentation on how to setup masternodes on Kyanite network. Just substitude Kyanite wallet with the DASH wallet in the documentation.
