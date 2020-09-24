@@ -15,3 +15,6 @@
 
 ### Kyanite Masternode Setup Documentation
 - [Masternode Setup Guide by DASH](https://docs.dash.org/en/stable/masternodes/setup.html): Kyanite use DASH DIP3 codebase so this is the documentation on how to setup masternodes on Kyanite network. Just substitude Kyanite wallet with the DASH wallet in the documentation.
+
+### Kyanite Services
+- [Kyanite Block Explorer](https://explorer.kyancoin.net): Kyanite Block Explorer and Market Data Platform
